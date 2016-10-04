@@ -1,0 +1,41 @@
+body {
+    font-size: 16px;
+    color: black;
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+    background-color: lightblue;
+    color: white;
+    border-radius: 0;
+    border: 0;
+}
+
+#header-nav a {
+    color: white;
+}
+
+#navbar-collapse-1 {
+    margin-top: 0px;
+}
+
+a {
+    border: 1px;
+    border-color: black;
+    border-radius: 3px;
+    color: black;
+}
+
+#content {
+    background-color: lightgrey;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+
+}
+
+ul.nav {
+    margin: 0px;
+}
